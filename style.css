@@ -26,11 +26,11 @@ body {
   background-color: orange !important;
 }
 .nav-title{
-  font-family: Backetts;
+  font-family: Beckett;
   font-size: 35px;
   color: white;
   margin-left: 2%;
-  text-decoration: none;
+  text-decoration: underline #2d3436 ;
 }
 .nav {
   height: 50px;
